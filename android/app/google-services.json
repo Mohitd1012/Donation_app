@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415505077188",
+    "project_id": "umeed-9748c",
+    "storage_bucket": "umeed-9748c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415505077188:android:c29e2d4013d4af06990a91",
+        "android_client_info": {
+          "package_name": "com.example.umeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415505077188-012hmk25p4dp8er6cjccfktn4igrdu39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJTgReRRqVeenWmUkmwitP0HJTqdHQ8tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415505077188-012hmk25p4dp8er6cjccfktn4igrdu39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
